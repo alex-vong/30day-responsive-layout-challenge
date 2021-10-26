@@ -1,1 +1,1 @@
-# 30day-responsive-layout-challenge
+# portfolio-style-guide
