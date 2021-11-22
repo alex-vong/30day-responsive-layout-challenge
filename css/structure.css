@@ -14,8 +14,13 @@ body {
 /* explained here: https://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer */
 
 main {
-	flex-grow:  1; /* push the footer down */
+	margin-bottom: 80px;
+
+   display:  flex;
+   flex-direction: column;
+   gap:  40px;
 }
+
 
 inner-column {
 	display:  block;
@@ -23,4 +28,8 @@ inner-column {
 	margin-right: auto;
 	margin-left: auto;
 	/*padding: 30px 14px; /* a default */*/
+}
+
+section:last-child {
+   margin-bottom: 20px;
 }
