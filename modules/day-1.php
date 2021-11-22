@@ -14,7 +14,7 @@
     <div class="main-card">
         <div class="calm-voice card-heading">AOL</div>
         
-        <h2 class="heading attention-voice">Experts prove that Responsive Layouts are important for Websites</h1>
+        <h2 class="heading attention-voice">Experts Agree that Alex Vong is Great at Responsive Layouts</h1>
         
         <div class="quiet-voice">By: Alex Vong - 10/25/2021</div>
        

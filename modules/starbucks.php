@@ -39,7 +39,7 @@
              </div>
          </section>
 
-         <section class="mobile-app">
+         <section class="mobile-app rewards-card">
              <picture>
                  <img src="images/sb-mobile-app.jpeg" alt="sb-rewards-image">
              </picture>
