@@ -52,7 +52,8 @@ html {
 	position: sticky;
 	top: 0;
 
-   background-color: inherit;
+   background-color: var(--white);
+   z-index:  10000;
 
 }
 .site-header inner-column {

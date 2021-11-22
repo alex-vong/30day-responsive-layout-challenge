@@ -45,25 +45,17 @@ html {
       padding:  40px;
    }
 
-}
+   }
 
-.pxl-card-details .quiet-voice {
-   margin-top:  0;
-   line-height: 1.5;
-}
-
-
-.u-review picture img, .quiz-game picture img {
-   max-width:  60%;
-}
+   .pxl-card-details .quiet-voice {
+      margin-top:  0;
+      line-height: 1.5;
+   }
 
 
-
-.mobile img, .quiz-game img {
-   max-width:  60%;
-   margin:  auto;
-
-   transform:  matrix(1, 0, 0, 1, 0, 0);
+   .u-review picture img, .quiz-game picture img {
+      max-width:  60%;
+      margin:  auto;
    }
 
 
