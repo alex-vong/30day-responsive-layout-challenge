@@ -1,8 +1,5 @@
 
-  .container {
-      border:  1px solid #f2f1f5;
-      box-shadow:  0 1px 16px 10px rgb(64 64 64 / 8%);
-  }
+
 
 .main-card {
    padding:  20px;
@@ -74,7 +71,7 @@
 
 @media (min-width: 1024px) {
    
-   .container {
+   .day-1 .container {
       display: flex;
       flex-direction: row;
    }
