@@ -40,5 +40,10 @@
 		</inner-column>
 	</section>
 
+	<section class='page-section day-7 disney'>
+		<inner-column>
+			<?php include('modules/disney.php'); ?> 
+		</inner-column>
+	</section>
 
 

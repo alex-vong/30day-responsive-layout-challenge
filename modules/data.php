@@ -85,26 +85,42 @@
 			"pxl-body-text2" => "Amplify social chatter with U Review, a social media tool for quickly responding to positive comments with personalized high-end motion graphics.",
 
 		],
-		[
-			"id" => "meme-generator",
-			"pxl-image" => "images/meme.jpeg",
-			"pxl-header" =>"Meme Generator",
-			"pxl-body-text" => "Make some memes! PXL’s Meme Generator web application gets fans sharing your content with a personal twist. Outputting either still or video content, fans can share their asset from the Meme Generator direct to Facebook and Twitter, or download with 1-click.",
-			"pxl-body-text2" => "The app can be configured to place user photos underneath themed content as well as add digital stickers and text on top.",
+		// [
+		// 	"id" => "meme-generator",
+		// 	"pxl-image" => "images/meme.jpeg",
+		// 	"pxl-header" =>"Meme Generator",
+		// 	"pxl-body-text" => "Make some memes! PXL’s Meme Generator web application gets fans sharing your content with a personal twist. Outputting either still or video content, fans can share their asset from the Meme Generator direct to Facebook and Twitter, or download with 1-click.",
+		// 	"pxl-body-text2" => "The app can be configured to place user photos underneath themed content as well as add digital stickers and text on top.",
 
-		],
+		// ],
 
-		[
-			"id" => "quiz-game",
-			"pxl-image" => "images/pxl-quiz-game.png",
-			"pxl-header" =>"Quiz Game",
-			"pxl-body-text" => "Challenge fans with trivia or create a personalized experience with self-reflection questions using PXL’s multiple choice quiz game. The game can be played on Facebook or in the browser, ending with a sharable score asset to encourage word of mouth marketing.",
-			"pxl-body-text2" => false,
+		// [
+		// 	"id" => "quiz-game",
+		// 	"pxl-image" => "images/pxl-quiz-game.png",
+		// 	"pxl-header" =>"Quiz Game",
+		// 	"pxl-body-text" => "Challenge fans with trivia or create a personalized experience with self-reflection questions using PXL’s multiple choice quiz game. The game can be played on Facebook or in the browser, ending with a sharable score asset to encourage word of mouth marketing.",
+		// 	"pxl-body-text2" => false,
 
 
-		],
+		// ],
 	];
 
+
+
+	$disney = [
+
+		[
+			"movie-poster" => "https://lumiere-a.akamaihd.net/v1/images/cg_disney_shangchi_horizontal_22257_a30c23c4.jpeg?region=0,0,1460,824&width=768",
+			"movie-title" => "Shang-Chi and the Legend of the Ten Rings",
+			"movie-description" => "Experience the beginning of a new Marvel super Hero. Now streaming on Disney+."
+		],
+
+			[
+			"movie-poster" => "https://lumiere-a.akamaihd.net/v1/images/cg_junglecruise_disneyplus_horizontal_21349_d4bff495.jpeg?region=0,0,1460,824&width=768",
+			"movie-title" => "Jungle Cruise",
+			"movie-description" => "The adventure of a lifetime is now streaming on Disney+."
+		],
+	];
 
 
 
