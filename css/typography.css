@@ -45,6 +45,11 @@ body {
 
 }
 
+a {
+    font-family: 'Montserrat', sans-serif;
+   
+}
+
 /* these would be scoped to section or to an article element */
 /* this is just a loose setting for now */
 p + p {
