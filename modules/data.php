@@ -123,6 +123,30 @@
 	];
 
 
+	$array = [
+
+		[
+			"id" => "top-row",
+			"image" => "https://www.arraylive.com/hs-fs/hubfs/Ellipse%201.png?width=294&name=Ellipse%201.png%20294w",
+			"card-heading" => "1. Schedule a Consultation",
+			"card-text" => "Tell us your needs and event goals, especially regarding your audience and presenter experience. We’ll then demo the software and help you choose the right options for you event."
+		],
+		[
+			"id" => "middle-row",
+			"image" => "https://www.arraylive.com/hs-fs/hubfs/Ellipse%201.png?width=294&name=Ellipse%201.png%20294w",
+			"card-heading" => "2. Get Your Content Engagement Solution",
+			"card-text" => "Before your event, we advise on best practices, set-up the technology, and provide training and support for your team—everything you need to deliver great content and keep your audience engaged, whether in-person or virtual"
+		],
+		[
+			"id" => "bottom-row",
+			"image" => "https://www.arraylive.com/hs-fs/hubfs/Layer%2025.png?width=294&name=Layer%2025.png 294w",
+			"card-heading" => "3. Deliver Successful Events",
+			"card-text" => "We manage everything - technology, presenter and attendee support, and moderation. After the event, we also provide analytics on every audience member’s engagement and even offer ways to improve the next one."
+		],
+
+
+
+	];
 
 
 
