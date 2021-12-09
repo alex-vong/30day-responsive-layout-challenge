@@ -46,4 +46,10 @@
 		</inner-column>
 	</section>
 
+	<section class='page-section day-8 array-site'>
+		<inner-column>
+			<?php include('modules/array-site.php'); ?> 
+		</inner-column>
+	</section>
+
 

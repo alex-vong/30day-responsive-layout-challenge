@@ -27,7 +27,7 @@ body {
 
 .attention-voice	{
    font-family: 'Lato', serif;
-	font-size: clamp(25px, 5vw, 40px);
+	font-size: 25px;
    font-weight: 700;
 }
 
