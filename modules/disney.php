@@ -25,12 +25,13 @@
 					<img src="<?=$film["movie-poster"]?>" alt="">
 				</picture>
 
-				<h3 class="quiet-voice"><?=$film["movie-title"]?></h3>
+					<h3 class="calm-voice"><?=$film["movie-title"]?></h3>
 
-				<p class="quiet-voice"><?=$film["movie-description"]?></p>
+					<p class="quiet-voice"><?=$film["movie-description"]?></p>
 
-				<a href="" class="quiet-voice">Stream Now</a>
-			</div>
+					<a href="" class="quiet-voice">Stream Now</a>
+				</div>
+	
 
 		 <?php  } ?>
 
