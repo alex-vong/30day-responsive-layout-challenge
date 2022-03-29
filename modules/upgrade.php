@@ -1,4 +1,4 @@
-	<h2 class="section-heading calm-voice">Day 6</h2>
+	<h2 class="section-heading calm-voice">Upgrade</h2>
 
 	<section class="project-info">
 		<h3 class="calm-voice">Source:
