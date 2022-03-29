@@ -144,13 +144,47 @@
 			"card-text" => "We manage everything - technology, presenter and attendee support, and moderation. After the event, we also provide analytics on every audience member’s engagement and even offer ways to improve the next one."
 		],
 
-
-
 	];
 
 
 
 
+	$onfleet = [
+
+		[
+			
+			"image" => "https://d1er272rpp2pqg.cloudfront.net/s4a98f282/images/pricing/bike.png",
+			"level" => "Starter",
+			"price" => "$149/mo",
+			"card-text" => "Get to know Onlfeet. Track, dispatch, manage, and analyze your fleet.",
+			"button-text" => "Start free trial",
+		],
+		[
+			
+			"image" => "https://d1er272rpp2pqg.cloudfront.net/s4a98f282/images/pricing/scooter.png",
+			"level" => "Basic",
+			"price" => "$349/mo",
+			"card-text" => "Starter + optimize routes, chat with drivers and build integrations.",
+			"button-text" => "Start free trial",
+		],
+		[
+			
+			"image" => "https://d1er272rpp2pqg.cloudfront.net/s4a98f282/images/pricing/car.png",
+			"level" => "Premium",
+			"price" => "$799/mo",
+			"card-text" => "Basic + scan barcodes and IDs, and use a dedicated phone number.",
+			"button-text" => "Contact Sales",
+		],
+		[
+			
+			"image" => "https://d1er272rpp2pqg.cloudfront.net/s4a98f282/images/pricing/truck.png",
+			"level" => "Professional",
+			"price" => "$1,999/mo",
+			"card-text" => "Premium + priority support, full data access and brand customization.",
+			"button-text" => "Contact Sales",
+		],
+
+	];
 
 
 
