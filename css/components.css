@@ -60,7 +60,7 @@
    border-top: 1px solid var(--light);
    border-bottom: 1px solid var(--light);
    margin: 30px 0 20px;
-   padding:  5px;
+   padding:  5px 0;
 }
 
 
@@ -106,6 +106,15 @@ span {
 }
 
 
+.flex-row {
+   display:  flex;
+   flex-direction:  row;
+}
+
+.flex-column {
+   display:  flex;
+   flex-direction:  column;
+}
 
 
 

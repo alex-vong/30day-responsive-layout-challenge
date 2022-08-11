@@ -2,6 +2,9 @@
 
 <?php include('header.php'); ?>
 
+
+
+
 	<section class='page-section day-1'>
 		<inner-column>
 			<?php include('modules/day-1.php'); ?> 
@@ -15,41 +18,52 @@
 		</inner-column>
 	</section> 
 
-	<section class='page-section day-3 forefathers'>
+	<section class='page-section onfleet'>
 		<inner-column>
-			<?php include('modules/forefathers.php'); ?> 
+			<?php include('modules/onfleet.php'); ?> 
 		</inner-column>
 	</section>
 
-	<section class='page-section day-4 slack'>
+	<section class='page-section atmosphere'>
+		<inner-column>
+			<?php include('modules/atmosphere.php'); ?> 
+		</inner-column>
+	</section>
+
+	<section class='page-section slack'>
 		<inner-column>
 			<?php include('modules/slack.php'); ?> 
 		</inner-column>
 	</section>
 
-	<section class='page-section day-5 pxl'>
+	<section class='page-section pxl'>
 		<inner-column>
 			<?php include('modules/pxl.php'); ?> 
 		</inner-column>
 	</section> 
 
 
-	<section class='page-section day-6 upgrade'>
+	<section class='page-section upgrade'>
 		<inner-column>
 			<?php include('modules/upgrade.php'); ?> 
 		</inner-column>
 	</section>
 
-	<section class='page-section day-7 disney'>
+	<section class='page-section disney'>
 		<inner-column>
 			<?php include('modules/disney.php'); ?> 
 		</inner-column>
 	</section>
 
-	<section class='page-section day-8 array-site'>
+	<section class='page-section array-site'>
 		<inner-column>
 			<?php include('modules/array-site.php'); ?> 
 		</inner-column>
 	</section>
+
+
+
+
+
 
 

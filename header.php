@@ -8,7 +8,7 @@
 			<inner-column>
 				<masthead>
 					<nav class='site-menu'>
-						<h1 class='loud-voice'>Responsive Layouts</h1>
+						<h1 class='loud-voice'>Responsive Layouts in the Wild</h1>
 			
 				</masthead>
 
